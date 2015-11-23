@@ -51,6 +51,7 @@ Trello 這個線上系統概念很簡單。想像多個白板搭配數不清的�
 ![留言跟活動的介面](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/41b5d89ad26cc5fe4aac4065fb80c81d/board-activity_section.jpg)
 
 	3. Add 功能，讓 Cards 真正強大的功能
+
 ![Add 子選單](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/a8f1422ef89d1bbffb3c3c51c379a978/board-add_section.jpg)
 
 		1. 新增 Members，從此能夠與夥伴同步資訊，以及互相指派工作事項
@@ -58,7 +59,8 @@ Trello 這個線上系統概念很簡單。想像多個白板搭配數不清的�
 		3. 新增 Checklists，可以是子工作項目，也可以是該 Card 執行時，需要確認的清單
 		4. 新增 Due date，期限、期限、期限
 		5. 新增 Attachments 附加檔案。因為免費帳號能上傳空間額度低，所以建議使用公檔連結，或是 Google Drive / Dropbox 分享連結。另外，附加的 jpg / png 檔會變成 Card 的封面照片
- ![Card 的封面照片](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/02f9aac65eee09d5b9deba82202ccc6a/attach.jpg)
+ 
+![Card 的封面照片](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/02f9aac65eee09d5b9deba82202ccc6a/attach.jpg)
 
 4.  Actions 主要是針對 Card 本身做操作，例如搬移到其他 Lists，複製來重複使用（如果工作項目已有慣常的模式被養成），訂閱 Subscribe 該工作項目來追進展，封存該 Card
 ![Actions 子選單](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/dbb46e6ecbc5dfd581fa855eff91c49a/board-actions_section.jpg)
